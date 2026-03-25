@@ -1,1 +1,12 @@
 # belajar-git
+🔴 Kemungkinan terbesar: commit kamu masih “linear”
+
+Walaupun kamu sudah:
+
+bikin branch benrin-txt
+edit file
+commit
+
+👉 Git tetap bisa terlihat lurus (tidak bercabang) kalau:
+
+Branch kamu belum “berpisah arah” dari main
